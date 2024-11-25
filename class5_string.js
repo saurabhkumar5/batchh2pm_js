@@ -54,7 +54,7 @@
     //   console.log(a.trim()+"komal")
 
 
-    // 8. startwidth
+    // 8. startwith
     //   let a = "most welcome";
     //   console.log(a.startsWith('welcome'))
     // console.log(a.endsWith('come'))
@@ -76,5 +76,15 @@
     //   console.log(a.repeat(3))
 
 
+//    12. substring() 
     
+        //  let a = "welcome"
+        //  console.log(a.substring(1,3))
+        //  console.log(a.substring(-4,-1))
+      
+    // 13. slice()
+
+    // let a = "welcome"
+    // console.log(a.slice(2,5))
+    // console.log(a.slice(-4,-1))
       
