@@ -121,21 +121,22 @@
 
 
 
-let number = -6
+// let number = -6
 
-  if(number>0){
-    console.log("number is positive")
-     if(number%2==0){
-        console.log("number is even")
-     }else{
-        console.log("number is odd")
-     }
-  }
-else{
-    console.log("number is -ve")
-    if(number%2==0){
-        console.log("number is even")
-     }else{
-        console.log("number is odd")
-     }
-}
+//   if(number>0){
+//     console.log("number is positive")
+//      if(number%2==0){
+//         console.log("number is even")
+//      }else{
+//         console.log("number is odd")
+//      }
+//   }
+// else{
+//     console.log("number is -ve")
+//     if(number%2==0){
+//         console.log("number is even")
+//      }else{
+//         console.log("number is odd")
+//      }
+// }
+
