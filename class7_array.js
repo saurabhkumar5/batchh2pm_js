@@ -77,3 +77,25 @@
 // let arr = [15,2,6,89,9,53]
 // let arr = ["komal","anuj","kullu","brijesh","annu"]
 // console.log(arr.sort())
+
+
+// 11. splice()
+
+// let arr = [10,20,30,40,50,60]
+
+//          arr.splice(2,4,77)
+//       console.log(arr)
+
+
+
+// let arr = [[1,23,4],[78,"hello"],[100,200,3000]]
+// console.log(arr[1][1])
+
+
+
+// console.log(1)
+// console.log(2)
+// console.log(3)
+// console.log(4)
+
+// ab start hotaa h loop
